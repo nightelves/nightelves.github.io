@@ -539,7 +539,7 @@ html {
   font: 100%/1.5em 'PT Sans', sans-serif; }
 
 body {
-  font-size: 1em;
+  font-size: 2em;
   /* 16px / 16px */
   color: #353738; }
 
@@ -573,8 +573,8 @@ h1, h2, h3 {
   text-align: center; }
 
 header.band h1 {
-  font-size: 10em;
-  line-height: 2em;
+  font-size: 1em;
+  line-height: 1em;
   margin-bottom: 1em; }
 
 h2 {
